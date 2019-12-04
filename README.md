@@ -1,5 +1,4 @@
-# Two methods to create Cycles soil files using ISRIC (https://www.isric.org/) soil datasets.
-
+## Two methods to create Cycles soil files using ISRIC (https://www.isric.org/) soil datasets.
 
 ## Method One [ Known Point Location ] 
 
