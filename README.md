@@ -1,7 +1,7 @@
-Two methods to create Cycles soil files using ISRIC (https://www.isric.org/) soil datasets.
+**Two methods to create Cycles soil files using ISRIC (https://www.isric.org/) soil datasets.
 
 
-Method One [ Known Point Location ] 
+**Method One [ Known Point Location ] 
 
 The Cycles_Soil_from_ISRIC.py python file inputs are:
 
@@ -14,7 +14,7 @@ The Cycles_Soil_from_ISRIC.py python file inputs are:
 Output:
 (1) Single Cycles Crop file
 
-Method Two [ Using Polygon Shapefile to clip crop raster dataset ]
+**Method Two [ Using Polygon Shapefile to clip crop raster dataset ]
 
 The Cycles_SoilFile_WithPolygon.py python file inputs are:
 
