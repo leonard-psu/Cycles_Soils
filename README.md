@@ -11,7 +11,7 @@
 5. Slope raster dataset
 
 ### Output:
-1. Single Cycles Crop file
+1. Single Cycles soil file (*.soil)
 
 ## Method Two [ Using Polygon Shapefile to clip crop raster dataset ]
 
@@ -26,6 +26,6 @@
 ### Outputs:
 1. Raster file of crops withing region of interest
 2. Point shape file representing crops
-3. Many Cycles soil files in specified directory
+3. Many Cycles soil files (*.soil) in specified directory
 
 
