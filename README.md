@@ -29,3 +29,15 @@
 3. Many Cycles soil files (*.soil) in specified directory
 
 
+## Method Three [ Using CSV Text file with Lon and Lat values ]
+
+### The Cycles_SoilFile_LoadCSV.py python file inputs are:
+
+1. A curve number
+2. Input directory of ISRIC seven soil layers [ CLYPPT_M_sl, SNDPPT_M_sl, ORCDRC_M_sl, BLDFIE_M_sl]
+3. Slope raster dataset
+4. CSV text file (with no header) with Lon and Lat values
+
+### Outputs:
+1. Many Cycles soil files (*.soil) in specified directory
+
